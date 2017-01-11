@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\Users\ReM\Desktop\project3</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ReM\Desktop\project3\project3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ReM\Desktop\project3\project3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\ReM\Desktop\project3\project3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\ReM\Desktop\project3\project3.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <sp_init><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>10</LINE></sp_init>
+  <switch_init><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>15</LINE></switch_init>
+  <led_init><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>20</LINE></led_init>
+  <select_programm><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>36</LINE></select_programm>
+  <define_programm><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>53</LINE></define_programm>
+  <jump0><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>59</LINE></jump0>
+  <jump1><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>65</LINE></jump1>
+  <jump2><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>71</LINE></jump2>
+  <jump3><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>77</LINE></jump3>
+  <jump4><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>85</LINE></jump4>
+  <jump5><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>90</LINE></jump5>
+  <jump6><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>95</LINE></jump6>
+  <jump7><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>100</LINE></jump7>
+  <proplysh_led><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>115</LINE></proplysh_led>
+  <change><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>188</LINE></change>
+  <proplysh_wash><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>124</LINE></proplysh_wash>
+  <door_led_off_on><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>147</LINE></door_led_off_on>
+  <water_stop><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>163</LINE></water_stop>
+  <overloaded><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>217</LINE></overloaded>
+  <delay05s><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>319</LINE></delay05s>
+  <water_stop_on_off><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>169</LINE></water_stop_on_off>
+  <wash><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>195</LINE></wash>
+  <change2><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>242</LINE></change2>
+  <avoid0><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>232</LINE></avoid0>
+  <avoid1><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>237</LINE></avoid1>
+  <ksebgalma><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>251</LINE></ksebgalma>
+  <change3><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>275</LINE></change3>
+  <exit><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>310</LINE></exit>
+  <stragisma_wash><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>287</LINE></stragisma_wash>
+  <bdelay05s><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>316</LINE></bdelay05s>
+  <L1><FILE>C:\Users\ReM\Desktop\project3\project3.asm</FILE><LINE>323</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
