@@ -1,2 +1,2 @@
 # University
-University Projects
+University Projects and Internship
