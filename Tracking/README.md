@@ -18,3 +18,5 @@
 
 [![Demo CountPages alpha](http://share.gifyoutube.com/NLm7q2.gif)](https://youtu.be/P-dzXwhelM0)
 
+[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
