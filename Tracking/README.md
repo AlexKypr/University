@@ -7,10 +7,10 @@
 <li>libvibe++ link:http://www.telecom.ulg.ac.be/research/vibe/doc2/#downloading</li>
 <li>Cuda</li>
 </ol>
-<ol>
+
   
 # Βήματα Εκτέλεσης
-  
+<ol>  
 <li>Άνοιγμα terminal και πρόσβαση στο path ../DetectionTracking/Tracking</li>
 <li>(Προαιρετικό)Διαγραφή ή όχι του φάκελου build για νέο build.</li>
 <li>Εκτέλεση εντολής cmake -H. -Bbuild</li>
