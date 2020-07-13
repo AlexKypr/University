@@ -13,3 +13,7 @@
 5)Πρόσβαση στο φάκελο bin(path -> ../DetectionTracking/Tracking/bin)
 6)Εκτέλεση της εντολής ./myTest Demo.mp4 για εκτέλεση του προγράμματος χωρίς το όριο της γραμμής που φαίνεται στο recordTracking.mkv ή εκτέλεση της εντολής ./myDemo Demo.mp4 για εκτέλεση του προγράμματος με το όριο.
 
+
+<video width="320" height="240" controls>
+  <source src="recordTracking.mkv" type="video/mp4">
+</video>
