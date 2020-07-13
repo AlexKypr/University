@@ -28,4 +28,6 @@
 
 ![alt text](https://github.com/AlexKypr/University/blob/master/Tracking/screens.png?raw=true)
 
+![alt text](https://github.com/AlexKypr/University/blob/master/Tracking/screen2.png?raw=true)
+
 
