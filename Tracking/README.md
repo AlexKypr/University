@@ -16,5 +16,5 @@
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/P-dzXwhelM0/0.jpg)](http://www.youtube.com/watch?v=P-dzXwhelM0)
 
-[![Demo CountPages alpha](https://j.gifs.com/NLm7q2.gif)](https://youtu.be/P-dzXwhelM0)
+[![Demo CountPages alpha](https://gifs.com/gif/detection-and-tracking-NLm7q2)](https://youtu.be/P-dzXwhelM0)
 
