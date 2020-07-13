@@ -1,4 +1,5 @@
-#Απαραίτητες Βιβλιοθήκες
+# Απαραίτητες Βιβλιοθήκες
+
 <ol>
 <li>Boost</li>
 <li>OpenCV 3.0+</li>
@@ -7,7 +8,9 @@
 <li>Cuda</li>
 </ol>
 <ol>
-#Βήματα Εκτέλεσης
+  
+# Βήματα Εκτέλεσης
+  
 <li>Άνοιγμα terminal και πρόσβαση στο path ../DetectionTracking/Tracking</li>
 <li>(Προαιρετικό)Διαγραφή ή όχι του φάκελου build για νέο build.</li>
 <li>Εκτέλεση εντολής cmake -H. -Bbuild</li>
