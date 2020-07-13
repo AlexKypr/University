@@ -16,7 +16,5 @@
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/P-dzXwhelM0/0.jpg)](http://www.youtube.com/watch?v=P-dzXwhelM0)
 
-[![Demo Doccou alpha](http://share.gifyoutube.com/NLm7q2.gif)](https://www.youtube.com/watch?v=P-dzXwhelM0&feature=youtu.be)
 
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
